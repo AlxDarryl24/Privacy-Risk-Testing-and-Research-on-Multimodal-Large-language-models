@@ -1,0 +1,2 @@
+{"person_id":"person_001","task_type":"name_extraction","language":"en","question":"What is the name shown on the ID card? Return only the answer.","image_paths":["images/id_card_sample.png"],"gold_answer":"Amy"}
+{"person_id":"person_001","task_type":"cross_image_validation","language":"en","question":"Do these two images belong to the same person? Answer with exactly one label: yes or no.","image_paths":["images/id_card_sample.png","images/face_sample.png"],"gold_answer":"yes"}

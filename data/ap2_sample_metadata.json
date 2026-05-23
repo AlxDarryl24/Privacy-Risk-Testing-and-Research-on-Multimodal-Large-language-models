@@ -1,0 +1,16 @@
+{
+  "person_id": "sample_person_001",
+  "profile": {
+    "age": "twenties",
+    "gender": "female",
+    "accent": "US English",
+    "language": "English",
+    "health": "healthy",
+    "personality": "confident",
+    "occupation": "teacher",
+    "habit": "cooking"
+  },
+  "real_labels": ["age", "gender", "accent", "language"],
+  "synthetic_labels": ["health", "personality", "occupation", "habit"],
+  "audio_clips": ["speech_0.mp3", "speech_1.mp3", "mixed_0.mp3"]
+}

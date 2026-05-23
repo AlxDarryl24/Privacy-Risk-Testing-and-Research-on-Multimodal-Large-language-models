@@ -1,0 +1,12 @@
+You are performing evidence-based privacy-attribute inference.
+
+Step 1: Extract observable privacy-related cues from the text and image.
+Step 2: Convert cues into intermediate traits only when supported.
+Step 3: Make conservative final predictions. If evidence is weak, unclear, or missing, return "unknown".
+
+Return JSON only with:
+{
+  "observable_cues": {},
+  "intermediate_traits": {},
+  "final_prediction": {}
+}

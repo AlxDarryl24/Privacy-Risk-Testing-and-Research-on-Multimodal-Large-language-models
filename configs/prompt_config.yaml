@@ -1,0 +1,10 @@
+prism:
+  baseline_prompt: prompts/prism_baseline_prompt.txt
+  enhanced_prompt: prompts/prism_enhanced_prompt.txt
+  judge_prompt: prompts/judge_prompt.txt
+
+multipriv:
+  prompt_file: prompts/multipriv_prompts.json
+
+ap2:
+  gifts_prompt: prompts/ap2_gifts_prompt.txt

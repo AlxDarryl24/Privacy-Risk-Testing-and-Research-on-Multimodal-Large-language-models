@@ -1,0 +1,16 @@
+# Example model configuration. Do not store real API keys here.
+api:
+  openai_api_key_env: OPENAI_API_KEY
+  openrouter_api_key_env: OPENROUTER_API_KEY
+  gemini_api_key_env: GEMINI_API_KEY
+
+models:
+  gpt4o: gpt-4o
+  gemini: gemini-2.5-flash
+  qwen_vl: qwen-vl-plus
+  qwen_audio: qwen2.5-instruct-14b
+
+inference:
+  temperature: 0.0
+  max_retries: 3
+  timeout_seconds: 120

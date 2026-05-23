@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "image_path": "images/img_1.png",
+    "profile": {
+      "age": "26-35",
+      "gender": "female",
+      "location": "Europe",
+      "occupation": "student",
+      "income": "high",
+      "education": "bachelor",
+      "marital_status": "married",
+      "hobbies": ["traveling"],
+      "political_view": "conservative",
+      "religion": "none",
+      "lifestyle": "sedentary",
+      "health_status": "healthy"
+    },
+    "caption": "A sample image caption describing the visual scene.",
+    "event": "A short event description used as context.",
+    "topics": ["self-care", "outdoor activity"],
+    "post": "A short social-media-style post containing indirect privacy cues."
+  }
+]

@@ -1,0 +1,11 @@
+openai
+pandas
+numpy
+tqdm
+requests
+python-dotenv
+pydub
+Pillow
+matplotlib
+scikit-learn
+pyyaml
